@@ -1,0 +1,194 @@
+body {
+    direction: rtl;
+    font-family: 'Cairo', sans-serif;
+}
+
+
+/* Start Header */
+header .log .in div {
+    font-size: 14px;
+    color: #777777;
+}
+header .log .in i {
+    color: #000000;
+    padding-left: 7px;
+    padding-right: 0;
+}
+header .log .in div span {
+    color: #222222;
+    font-size: 16px;
+}
+header .log .cart .sp {
+    right: 24px;
+    top: 5px;
+}
+header .log .src input {
+    padding-right: 20px;
+    color: #777777;
+}
+header .log .src .srch {
+    right: 362px;
+    color: #000000;
+}
+/* End Header */
+/* Start Nav */
+nav button i {
+    margin-right: 12px;
+}
+nav ul .shd {
+    margin-right: 0;
+    box-shadow: -151px 3px 185px 25px #fff;
+}
+nav .container div i {
+    box-shadow: -42px 1px 185px 25px
+}
+/* End Nav */
+/* Start Main */
+.main .txt {
+    right: 13%;
+    width: 50%;
+}
+.main .txt h2 {
+    font-size: 38px;
+}
+.main .txt p {
+    margin-right: 79px;
+    font-weight: bold;
+    font-size: 16px;
+}
+.main .txt button {
+    margin-right: 79px;
+}
+.main .txt button i {
+    margin-right: 11px;
+}
+/* End Main */
+/* Start Products */
+.products .container .ht .scndd {
+    padding-top: 102px;
+}
+.products .container .ht .five {
+    margin-right: 12px;
+}
+.products .container .ht .fv {
+    margin-right: 12px;
+    font-size: 16px;
+}
+.products .container .ht button {
+    margin-right: 12px;
+    margin-top: 40px;
+
+}
+.products .container .ht button div {
+    margin-left: 35px;
+    margin-right: 0;
+}
+/* End Products */
+/* Start Top Sales */
+.sales .container .head {
+    margin-bottom: 35px;
+}
+.sales .container .head h2 {
+    font-size: 32px;
+}
+.sales .container .top-sales {
+    justify-content: space-between;
+}
+.sales .container .top-sales .mr {
+    margin-right: 0;
+}
+.sales .container .top-sales img {
+    margin-right: 10px;
+}
+.sales .container .top-sales p {
+    white-space: nowrap;
+    overflow: hidden;
+    padding-bottom: 12px;
+}
+.sales .container .top-sales .flx p {
+    padding-bottom: 2px;
+}
+/* End Top Sales */
+/* Start Man Section */
+.text {
+    border-top-right-radius: 120px;
+    border-bottom-right-radius: 120px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    position: relative;
+    background-image: url(../images/dadasdasd.jpg);
+    background-size: cover;
+}
+.text .mt img {
+    height: 536px;
+    bottom: 0px;
+    right: 63px;
+    position: absolute;
+}
+.text::before,
+.text::after {
+    content: none;
+}
+.text .mg {
+    position: absolute;
+    bottom: 33px;
+    
+    background-image: none;
+}
+.text .mg::before,
+.text .mg::after {
+    content: none;
+}
+.text .mg .man-section {
+    width: 25%;
+    margin-right: 387px;
+    margin-left: 0;
+    margin-top: 161px;
+}
+.text .mg .man-section-2 {
+    margin-right: 0;
+
+}
+.text .mg .man-section-2 .flx .js {
+    position: relative;
+}
+.text .mg .man-section-2 .flx .js span {
+    margin-left: 0;
+    right: 29px;
+}
+.text .mg .man-section button i {
+    margin-right: 37px;
+    margin-left: 0;
+}
+.text .mg .man-section-2 .flx img {
+    margin-left: 30px;
+}
+.text .mg .man-section-2 .flx i {
+    margin-right: 26px;
+    margin-left: 0;
+}
+.text .mg .man-section-2 .flx h4 {
+    margin-bottom: 10px;
+}
+/* End Man Section */
+/* Start Small Section */
+.small .ct .fr-1 h2 {
+    margin-right: 54px;
+    font-size: 23px;
+    margin-bottom: 4px;
+}
+.small .ct .fr-1 p {
+    margin-right: 54px;
+}
+/* End Small Section */
+/* Start Footer */
+.footer .frft .container .txt {
+    direction: ltr;
+}
+.footer .ndft .rel-2 h3 {
+    margin: 10px 0;
+}
+.footer .ndft .rel-2 p {
+    margin-top: 6px;
+}
+/* End Footer */
